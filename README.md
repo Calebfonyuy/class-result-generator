@@ -1,6 +1,11 @@
 # Class result generator
 
-To run
+This project generates excel files containing a list of students and marks for two sequences. 
+
+Ensure you create a folder named `output` in the same folder as main.py before executing it. 
+
+
+To run this file use
 ````
 python main.py -n n -c c -s s
 ````
